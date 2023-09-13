@@ -1,0 +1,11 @@
+# Data in Configuration
+port.name=COM3
+port.baud=9600
+
+# Vmix Configuration
+vmix.url=10.168.0.20:8088
+vmix.StartCamNumber=1
+vmix.WideCamNumber=2
+
+#Debug Info
+Debug.enabled=false
